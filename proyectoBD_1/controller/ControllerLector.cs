@@ -12,6 +12,7 @@ namespace proyectoBD_1.controller
         internal List<Lectores> SelectLectores()
         {
             throw new NotImplementedException();
+            //HOLA ASLDKASDA
         }
     }
 }
