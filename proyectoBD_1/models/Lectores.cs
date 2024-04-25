@@ -8,7 +8,7 @@ namespace proyectoBD_1.models
 {
     class Lectores
     {
-
+        //maldito github
         private int idLector;
         private string nombreL1;
         private string nombreL2;
